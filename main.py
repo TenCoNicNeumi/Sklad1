@@ -9,6 +9,7 @@ from pybricks.media.ev3dev import SoundFile, ImageFile
 import threading
 import time
 
+# novy komentar
 
 
 # Create your objects here.
